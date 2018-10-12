@@ -1,0 +1,8 @@
+D:\ClassWork_Pavlov\Cars\Cars\bin\Debug\Cars.exe.config
+D:\ClassWork_Pavlov\Cars\Cars\bin\Debug\Cars.exe
+D:\ClassWork_Pavlov\Cars\Cars\bin\Debug\Cars.pdb
+D:\ClassWork_Pavlov\Cars\Cars\bin\Debug\Cars.BusinessLogic.dll
+D:\ClassWork_Pavlov\Cars\Cars\bin\Debug\Cars.BusinessLogic.pdb
+D:\ClassWork_Pavlov\Cars\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\ClassWork_Pavlov\Cars\Cars\obj\Debug\Cars.exe
+D:\ClassWork_Pavlov\Cars\Cars\obj\Debug\Cars.pdb
